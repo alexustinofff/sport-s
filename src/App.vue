@@ -4,8 +4,7 @@
     <router-link to="/championship">Championship</router-link><br>
     <router-link to="/teams">Teams</router-link><br>
     <router-link to="/calendar">Calendar</router-link><br>
-    <router-link to="/seasons">Team seasons</router-link><br>
-    <div>dsdsd</div>
+    <router-link to="/seasons">Seasons</router-link><br>
   </div>
   <router-view/>
 </template>

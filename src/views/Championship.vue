@@ -1,6 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is Championship page</h1>
     <table>
       <tr>
         <th>Area</th>
